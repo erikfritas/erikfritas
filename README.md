@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <header style="width: 100%;">
   <section style="width: 100%;">
     <a width="70%" style="margin: auto;" href="https://lumaypublicidade.com/#contato">
-      <article width="25px">
+      <article>
         <h1>FALA DEVs 👋</h1>
         <br>
         <ul>
-          <li>Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
+          <li width="25px">Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
           <li>Atualmente estou estudando backend 🌱 com PHP.</li>
         </ul>
       </article>
