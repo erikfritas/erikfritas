@@ -30,6 +30,6 @@ Here are some ideas to get you started:
   </article>
 </header>
 <footer>
-  <>
+  <p>📫 Me chame por aqui: erikfritasgithub@gmail.com</p>
 </footer>
 
