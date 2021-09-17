@@ -17,7 +17,10 @@ Here are some ideas to get you started:
                display: grid;
                align-items: center;
                justifiy-content: space-between;">
-  <article style="width: 30%; position: relative;">
+  <article style="width: 25%; position: relative;
+                  display: flex;
+                  align-items: center;
+                  justify-content: space-between;">
     <h1>FALA DEVs 👋</h1>
     <br>
     <ul>
