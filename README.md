@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       <li>Atualmente estou estudando backend 🌱 com PHP.</li>
     </ul>
   </article>
-  <section style="width: 80%;">
+  <section style="width: 100%;">
     <a style="
               width: 100%;
               display: flex;
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
               align-items: center;
               justify-content: space-between;
               " href="https://lumaypublicidade.com/#contato">
-      <img style="width: 80%; max-height: 300px;" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img style="width: 75%; max-height: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
+      <img style="width: 50%; max-height: 300px;" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img style="width: 45%; max-height: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
     </a>
   </section>
 </header>
