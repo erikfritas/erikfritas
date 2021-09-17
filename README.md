@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   </article>
   <section>
     <a href="https://lumaypublicidade.com/#contato">
-      <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img style="width: 100%; padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <hr>
-      <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
+      <img style="width: 100%; padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
     </a>
   </div>
   </section>
