@@ -21,7 +21,9 @@ Here are some ideas to get you started:
                   display: flex;
                   align-items: center;
                   justify-content: space-between;
-                  box-sizing: border-box;">
+                  box-sizing: border-box;
+                  margin: 0;
+                  padding: 0;">
     <h1>FALA DEVs 👋</h1>
     <br>
     <ul>
