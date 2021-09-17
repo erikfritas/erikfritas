@@ -23,12 +23,8 @@ Here are some ideas to get you started:
     </ul>
   </article>
   <section style="width: 100%;">
-    <a style="
-              width: 100%;
-              display: flex;
-              flex-direction: row;
-              align-items: center;
-              justify-content: space-between;
+    <a style="width: 70%;
+              margin: auto;
               " href="https://lumaypublicidade.com/#contato">
       <img height="200pt" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img height="200pt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
