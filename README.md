@@ -28,7 +28,7 @@ Here are some ideas to get you started:
               padding: 15px;
               display: flex;
               flex-direction: row;
-              align-items: center;
+              align-items: start;
               justify-content: space-between;
               " href="https://lumaypublicidade.com/#contato">
       <img style="width: 55%;" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
