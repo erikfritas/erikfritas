@@ -25,16 +25,14 @@ Here are some ideas to get you started:
   <section style="width: 100%;">
     <a style="
               width: 80%;
-              padding: 15px;
               display: flex;
               flex-direction: row;
               align-items: center;
               justify-content: center;
               " href="https://lumaypublicidade.com/#contato">
-      <img style="width: 55%;" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
     </a>
-  </div>
   </section>
 </header>
 
