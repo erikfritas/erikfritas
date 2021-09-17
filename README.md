@@ -13,17 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<header style="width: 100%;
-               display: grid;
-               align-items: center;
-               justifiy-content: space-between;">
-  <article style="width: 25%; position: relative;
-                  display: flex;
-                  align-items: center;
-                  justify-content: space-between;
-                  box-sizing: border-box;
-                  margin: 0;
-                  padding: 0;">
+<header style="width: 100%;">
+  <article>
     <h1>FALA DEVs 👋</h1>
     <br>
     <ul>
