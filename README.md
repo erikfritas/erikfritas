@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<article>
-  <h1>FALA DEVs 👋</h1>
-  <br>
-  <ul>
-    <li>Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
-    <li>Atualmente estou estudando backend 🌱 com PHP.</li>
-  </ul>
-</article>
+<header>
+  <article>
+    <h1>FALA DEVs 👋</h1>
+    <br>
+    <ul>
+      <li>Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
+      <li>Atualmente estou estudando backend 🌱 com PHP.</li>
+    </ul>
+  </article>
+</header>
 
