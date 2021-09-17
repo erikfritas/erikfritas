@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<header style="width: 100%;">
+<header style="width: 100%;
+               display: flex;
+               align-items: center;
+               justifiy-content: center;">
   <article>
     <h1>FALA DEVs 👋</h1>
     <br>
