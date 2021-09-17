@@ -21,7 +21,7 @@ Here are some ideas to get you started:
                                                                             https://github-readme-stats.vercel.app/api?
                                                                             username=erikfritas
                                                                             &show_icons=true
-                                                                            &color=red,lime,blue
+                                                                            &bg_color=red,lime,blue
                                                                             &include_all_commits=true
                                                                             &count_private=true"/>
       <img height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?
