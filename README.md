@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <header style="width: 100%;">
   <section style="width: 100%;">
     <a width="70%" style="margin: auto;" href="https://lumaypublicidade.com/#contato">
-      <article width="">
+      <article width="25%">
         <h1>FALA DEVs 👋</h1>
         <br>
         <ul>
