@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <br>
   <article>
     <ul>
-      <li>Meu nome é <i>Érik 🍟</i>, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a style="color: red;" href="https://lumaypublicidade.com/"><u>LUMAY Publicidade</u></a>.</li>
-      <li>Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/">PHP</a>.</li>
+      <li>Meu nome é <i>Érik 🍟</i>, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/"><u>LUMAY Publicidade</u></a>.</li>
+      <li>Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/"><u>PHP</u></a>.</li>
     </ul>
   </article>
 </header>
