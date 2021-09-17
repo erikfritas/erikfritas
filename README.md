@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <header style="width: 100%;
-               display: flex;
+               display: grid;
                align-items: center;
-               justifiy-content: center;">
-  <article>
+               justifiy-content: space-between;">
+  <article style="width: 30%;">
     <h1>FALA DEVs 👋</h1>
     <br>
     <ul>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       <li>Atualmente estou estudando backend 🌱 com PHP.</li>
     </ul>
   </article>
-  <section style="width: 100%;">
+  <section style="width: 80%;">
     <a style="
               width: 100%;
               display: flex;
