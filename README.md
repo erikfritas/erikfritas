@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 -->
 
 <header style="width: 100%;">
-  <article>
-    <h1>FALA DEVs 👋</h1>
-    <br>
-    <ul>
-      <li>Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
-      <li>Atualmente estou estudando backend 🌱 com PHP.</li>
-    </ul>
-  </article>
   <section style="width: 100%;">
     <a style="width: 70%;
               margin: auto;
               " href="https://lumaypublicidade.com/#contato">
+      <article>
+        <h1>FALA DEVs 👋</h1>
+        <br>
+        <ul>
+          <li>Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
+          <li>Atualmente estou estudando backend 🌱 com PHP.</li>
+        </ul>
+      </article>
       <img height="200pt" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img height="200pt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
     </a>
