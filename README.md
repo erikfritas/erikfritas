@@ -21,6 +21,7 @@ Here are some ideas to get you started:
                                                                             https://github-readme-stats.vercel.app/api?
                                                                             username=erikfritas
                                                                             &show_icons=true
+                                                                            &theme=ocean_dark
                                                                             &bg_color=0,#FF0000,#0000FF
                                                                             &include_all_commits=true
                                                                             &count_private=true
