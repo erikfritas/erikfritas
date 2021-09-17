@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <article>
   <h1>FALA DEVs 👋</h1>
   <br>
-  <p>
-    Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.
+  <ul>
+    <li>Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
     <br><br>
-    Atualmente estou estudando backend 🌱 com PHP.
-  </p>
+    <li>Atualmente estou estudando backend 🌱 com PHP.</li>
+  </ul>
 </article>
 
