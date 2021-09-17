@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   </article>
   <section style="width: 100%;">
     <a style="
-              width: 80%;
               display: flex;
               flex-direction: row;
               align-items: center;
