@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <br>
   <ul>
     <li>Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
-    <br><br>
     <li>Atualmente estou estudando backend 🌱 com PHP.</li>
   </ul>
 </article>
