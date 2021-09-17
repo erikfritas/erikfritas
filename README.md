@@ -17,11 +17,10 @@ Here are some ideas to get you started:
   <h1>FALA DEVs 🍟✨</h1>
   <section style="width: 100%;">
     <a width="100%" style="margin: auto;" href="https://lumaypublicidade.com/#contato">
-      <img height="170vw" alt="Algumas informações sobre o meu github" src="
-                                                                            https://github-readme-stats.vercel.app/api?
+      <img height="170vw" alt="Algumas informações sobre o meu github" src="https://github-readme-stats.vercel.app/api?
                                                                             username=erikfritas
                                                                             &show_icons=true
-                                                                            &theme=ocean_dark
+                                                                            &theme=blueberry
                                                                             &include_all_commits=true
                                                                             &count_private=true"/>
       <img height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?
