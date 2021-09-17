@@ -23,8 +23,7 @@ Here are some ideas to get you started:
                                                                             &show_icons=true
                                                                             &theme=ocean_dark
                                                                             &include_all_commits=true
-                                                                            &count_private=true
-                                                                            &disable_animations=false"/>
+                                                                            &count_private=true"/>
       <img height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?
                                                                                                                    username=erikfritas
                                                                                                                    &layout=compact
