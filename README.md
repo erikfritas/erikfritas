@@ -14,19 +14,22 @@ Here are some ideas to get you started:
 -->
 
 <header style="width: 100%;">
-  <h1>FALA DEVs 👋</h1>
+  <h1>FALA DEVs 🍟✨</h1>
   <section style="width: 100%;">
     <a width="100%" style="margin: auto;" href="https://lumaypublicidade.com/#contato">
-      <img height="170vw" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="170vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
+      <img height="170vw" alt="Algumas informações sobre o meu github" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+      <img height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&theme=ocean_dark"/>
     </a>
   </section>
   <br>
   <article>
     <ul>
-      <li>Meu nome é Érik, tenho 17 anos de idade, possuo experiência com trabalho frontend 🔭, já tendo trabalhado como freelancer na empresa LUMAY Publicidade.</li>
+      <li>Meu nome é <i>Érik 🍟</i>, tenho 17 anos de idade, possuo experiência com trabalho <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/"><u>LUMAY Publicidade</u>.</li>
       <li>Atualmente estou estudando backend 🌱 com PHP.</li>
     </ul>
   </article>
 </header>
+<footer>
+  <>
+</footer>
 
