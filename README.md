@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </section>
 </header>
 <br>
-<section style="display: flex; align-items: center;">
+<section style="display: flex; align-items: center; justify-content: center;">
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />-
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />-
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />-
