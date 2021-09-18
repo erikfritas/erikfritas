@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 <br>
 <section>
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <span height="100%" margin="auto">-</span>
+  <span>-</span>
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <span height="100%" margin="auto">-</span>
+  <span>-</span>
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <span height="100%" margin="auto">-</span>
+  <span>-</span>
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <span height="100%" margin="auto">-</span>
+  <span>-</span>
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <span height="100%" margin="auto">-</span>
+  <span>-</span>
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <span height="100%" margin="auto">-</span>
+  <span>-</span>
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 </section>
 <hr>
