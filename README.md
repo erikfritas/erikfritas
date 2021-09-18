@@ -21,14 +21,24 @@ Here are some ideas to get you started:
       <img height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF"/>
     </a>
   </section>
-  <br>
-  <article>
-    <ul>
-      <li>Meu nome é <i>Érik 🍟</i>, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>.</li>
-      <li>Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/">PHP</a>.</li>
-    </ul>
-  </article>
 </header>
+<br>
+<section>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</section>
+<hr>
+<article>
+  <ul>
+    <li>Meu nome é <i>Érik 🍟</i>, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>.</li>
+    <li>Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/">PHP</a>.</li>
+  </ul>
+</article>
+<br>
 <footer>
   <p>📫 Me chame por aqui: erikfritasgithub@gmail.com</p>
 </footer>
