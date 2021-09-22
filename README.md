@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 <footer>
   <p>
-    📫 Me chame por aqui: erikfritasgithub@gmail.com
+    📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
   </p>
 </footer>
