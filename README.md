@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 </article>
 <br>
 <footer>
-  <p>📫 Me chame por aqui: erikfritasgithub@gmail.com</p>
+  <p>
+    📫 Me chame por aqui: erikfritasgithub@gmail.com
+    ou pelo meu insta: 📷 @erikfritas
+  </p>
 </footer>
 
