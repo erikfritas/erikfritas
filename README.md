@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<header align="left" style="width: 100%;">
+<header align="left" style="width: 50%;">
   <h1>FALA DEVs 🍟✨</h1>
   <section style="width: 100%;">
     <a width="100%" style="margin: auto;" href="https://lumaypublicidade.com/#contato">
