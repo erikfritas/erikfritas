@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   </section>
 </header>
 
+<br>
+
 <section>
   <kbd>
     <kbd>Front-end</kbd>
@@ -55,8 +57,6 @@ Here are some ideas to get you started:
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   </kbd>
 </section>
-
-<br>
 <hr>
 
 <footer align="left">
