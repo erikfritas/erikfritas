@@ -33,10 +33,7 @@ Here are some ideas to get you started:
   </section>
 </header>
 
-<br>
-<br>
-
-<section>
+<section align="center" valign="bottom">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
