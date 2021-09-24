@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<footer align="bottom">
-  <p>
+<footer align="right">
+  <p align="center">
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
   </p>
