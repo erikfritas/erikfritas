@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<header style="width: 100%;">
+<header align="left" style="width: 100%;">
   <h1>FALA DEVs 🍟✨</h1>
   <section style="width: 100%;">
     <a width="100%" style="margin: auto;" href="https://lumaypublicidade.com/#contato">
@@ -22,8 +22,10 @@ Here are some ideas to get you started:
     </a>
   </section>
 </header>
+
 <br>
-<section>
+
+<section align="right">
   <kbd>
     <kbd align="center">Front-end</kbd>
     <br>
@@ -45,14 +47,18 @@ Here are some ideas to get you started:
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   </kbd>
 </section>
+
 <hr>
+
 <article>
   <ul>
     <li>Meu nome é <i>Érik 🍟</i>, sou Brasileiro, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>.</li>
     <li>Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/">PHP</a>.</li>
   </ul>
 </article>
+
 <br>
+
 <footer>
   <p>
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
