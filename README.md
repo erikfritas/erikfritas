@@ -33,9 +33,9 @@ Here are some ideas to get you started:
   </section>
 </header>
 
-<section align="right">
-  <kbd align="left" valign="bottom">
-    <kbd>Front-end</kbd>
+<section>
+  <kbd>
+    <kbd align="center">Front-end</kbd>
     <br>
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
-  <kbd align="right" valign="bottom">
+  <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
