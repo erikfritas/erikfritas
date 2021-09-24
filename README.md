@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <section>
   <kbd>
-    <kbd align="center" valign="left">Front-end</kbd>
+    <kbd align="center" valign="top">Front-end</kbd>
     <br>
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
