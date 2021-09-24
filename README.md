@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<header align="left">
+<header>
   <h1>FALA DEVs 🍟✨</h1>
-  <section align="left">
+  <section>
     <a href="https://lumaypublicidade.com/#contato">
-      <img height="170vw" alt="Algumas informações sobre o meu github" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-      <img height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF"/>
+      <img align="left" height="170vw" alt="Algumas informações sobre o meu github" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+      <img align="right" height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF"/>
     </a>
   </section>
 </header>
