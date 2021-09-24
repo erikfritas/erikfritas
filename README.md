@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 <br>
 <hr>
+<br>
 
 <footer align="left">
   <p align="center">
