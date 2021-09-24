@@ -16,17 +16,21 @@ Here are some ideas to get you started:
 <header>
   <h1>FALA DEVs 🍟✨</h1>
   
-  <article align="right">
-  <ul align="right">
-    <li align="right">Meu nome é <i>Érik 🍟</i>, sou Brasileiro, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>.</li>
-    <li align="right">Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/">PHP</a>.</li>
+  <br>
+  
+  <article align="left">
+  <ul align="left">
+    <li align="left">Meu nome é <i>Érik 🍟</i>, sou Brasileiro, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>.</li>
+    <li align="left">Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/">PHP</a>.</li>
   </ul>
 </article>
   
-  <section align="left">
+  <br>
+  
+  <section align="right">
     <a href="https://lumaypublicidade.com/#contato">
-      <img align="left" height="170vw" alt="Algumas informações sobre o meu github" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-      <img align="left" height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF"/>
+      <img align="right" height="170vw" alt="Algumas informações sobre o meu github" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+      <img align="right" height="170vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF"/>
     </a>
   </section>
 </header>
