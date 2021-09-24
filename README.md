@@ -34,12 +34,6 @@ Here are some ideas to get you started:
 </header>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <section align="right">
   <kbd align="right">
