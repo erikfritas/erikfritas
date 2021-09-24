@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<header>
+<header align="center">
   <h1>FALA DEVs 🍟✨</h1>
   
   <br>
