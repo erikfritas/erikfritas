@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 </section>
 
 <br>
+<hr>
 
 <footer align="left">
   <p align="center">
