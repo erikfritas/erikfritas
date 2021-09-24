@@ -33,7 +33,9 @@ Here are some ideas to get you started:
   </section>
 </header>
 
-<b>
+<br>
+<br>
+<br>
 
 <section align="center">
   <kbd align="center">
