@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <section>
   <kbd>
-    <kbd align="right">Front-end</kbd>
+    <kbd>Front-end</kbd>
     <br>
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd>
-    <kbd align="left">Back-end</kbd>
+    <kbd>Back-end</kbd>
     <br>
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
