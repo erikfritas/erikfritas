@@ -61,8 +61,9 @@ Here are some ideas to get you started:
 </section>
 
 <br>
+<br>
 
-<footer align="right">
+<footer align="center">
   <p>
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
