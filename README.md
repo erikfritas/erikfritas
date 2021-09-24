@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<footer align="right">
+<footer align="left">
   <p align="center">
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
