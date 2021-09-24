@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <hr>
 
 <article align="left">
-  <ul>
+  <ul align="left">
     <li>Meu nome é <i>Érik 🍟</i>, sou Brasileiro, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>.</li>
     <li>Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/">PHP</a>.</li>
   </ul>
