@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br>
 
 <footer align="right">
-  <p>
+  <p align="right">
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
   </p>
