@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 <section align="right">
-  <kbd>
+  <kbd align="right">
     <kbd>Front-end</kbd>
     <br>
     <br>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
-  <kbd>
+  <kbd align="right">
     <kbd>Back-end</kbd>
     <br>
     <br>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br>
 
 <footer align="right">
-  <p align="right">
+  <p>
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
   </p>
