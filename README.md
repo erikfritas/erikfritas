@@ -54,8 +54,9 @@ Here are some ideas to get you started:
   </kbd>
 </section>
 
+<br>
 
-<footer align="center">
+<footer align="bottom">
   <p>
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
