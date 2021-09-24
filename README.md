@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   </section>
 </header>
 
-<section align="center" valign="bottom">
-  <kbd>
+<section>
+  <kbd align="center" valign="bottom">
     <kbd>Front-end</kbd>
     <br>
     <br>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
-  <kbd>
+  <kbd align="center" valign="bottom">
     <kbd>Back-end</kbd>
     <br>
     <br>
