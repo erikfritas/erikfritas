@@ -16,16 +16,12 @@ Here are some ideas to get you started:
 <header>
   <h1>FALA DEVs 🍟✨</h1>
   
-  <br>
-  
   <article>
     <ul>
       <li align="left">Meu nome é <i>Érik 🍟</i>, sou Brasileiro, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong>, já tendo trabalhado como <strong>freelancer</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>.</li>
       <li align="right">Atualmente estou estudando <strong>backend 🌱</strong> com <a href="https://www.php.net/">PHP</a>.</li>
     </ul>
   </article>
-  
-  <br>
   
   <section align="left">
     <a href="https://lumaypublicidade.com/#contato">
@@ -34,8 +30,6 @@ Here are some ideas to get you started:
     </a>
   </section>
 </header>
-
-<br>
 
 <section align="right">
   <kbd align="right">
@@ -60,8 +54,6 @@ Here are some ideas to get you started:
   </kbd>
 </section>
 
-<br>
-<br>
 
 <footer align="center">
   <p>
