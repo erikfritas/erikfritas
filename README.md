@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<section align="right">
-  <kbd align="right">
+<section align="center">
+  <kbd align="center">
     <kbd>Front-end</kbd>
     <br>
     <br>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
-  <kbd align="right">
+  <kbd align="center">
     <kbd>Back-end</kbd>
     <br>
     <br>
