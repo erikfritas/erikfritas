@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </header>
 <br>
 <section align="center">
-  <kbd align="left">
+  <kbd align="left" padding="20">
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
