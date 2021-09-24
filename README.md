@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 <section>
   <kbd>
-    <kbd align="center">Front-end</kbd>
+    <kbd width="100%" align="center">Front-end</kbd>
     <br>
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
