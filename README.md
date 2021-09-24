@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   </article>
   <br>
   
-  <section align="left">
+  <section align="center">
     <a href="https://lumaypublicidade.com/#contato">
       <img align="left" height="145vw" alt="Algumas informações sobre o meu github" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-      <img align="left" height="145vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF"/>
+      <img align="right" height="145vw" alt="Algumas informações sobre algumas linguagens que eu uso nos meus repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF"/>
     </a>
   </section>
 </header>
