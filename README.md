@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   </p>
   <br>
   <p align="center">
-    Número de visitas: <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
   </p>
 </footer>
 
