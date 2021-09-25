@@ -64,5 +64,9 @@ Here are some ideas to get you started:
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
   </p>
+  <br>
+  <p align="center">
+    Número de visitas: <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
+  </p>
 </footer>
 
