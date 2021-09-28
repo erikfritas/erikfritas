@@ -70,10 +70,10 @@ Here are some ideas to get you started:
   </p>
   <p align="center">
      <strong>
-           “I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language.”
-
+           <i>“I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language.”</i>
+    <br>
     — Yukihiro Matsumoto
-     <strong>
+     </strong>
   </p>
 </footer>
 
