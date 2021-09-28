@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </section>
 <hr>
 
-<footer align="left">
+<footer align="center">
   <p align="center">
     📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
     ou pelo meu insta: 📷 @erikfritas
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
   <p align="center">
     Número de visitas: <br> <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
   </p>
+  <br>
   <p align="left">
      <strong>
            <i>“I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language.”</i>
