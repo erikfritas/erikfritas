@@ -61,13 +61,11 @@ Here are some ideas to get you started:
 <hr>
 
 <footer align="center">
-  <h1 align="center">
-    <kbd>
-      <strong>Se quiser me chamar pra gente fazer um projeto...</strong><br>
-      📫 Me chame por aqui: erikfritasgithub@gmail.com <br>
-      ou pelo meu insta: 📷 @erikfritas
-    </kbd>
-  </h1>
+  <p align="center">
+    |<strong>Se quiser me chamar pra gente fazer um projeto...</strong><br>|
+    |📫 Me chame por aqui: erikfritasgithub@gmail.com <br>|
+    |ou pelo meu insta: 📷 @erikfritas|
+  </p>
   <br>
   <p align="center">
     Número de visitas: <br> <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
