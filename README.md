@@ -62,6 +62,7 @@ Here are some ideas to get you started:
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
   </kbd>
   <kbd>
     <kbd>OS</kbd>
