@@ -32,9 +32,6 @@ Here are some ideas to get you started:
     </a>
   </section>
   
-  <section>
-    <div style="width:50%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/J8t9H4Z7Wp3fq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mr-robot-showmax-J8t9H4Z7Wp3fq">via GIPHY</a></p>
-  </section>
 </header>
 
 <br>
