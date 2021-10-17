@@ -86,7 +86,7 @@ Here are some ideas to get you started:
   <p align="center">
     -=|. <strong>Se quiser me chamar pra gente fazer um projeto...</strong> .|=-<br>
     -=|=- 📫 Me chame por aqui: erikfritasgithub@gmail.com -=|=-<br>
-    -=|=------------ ou pelo meu insta: 📷 @erikfritas ------------=|=-
+    -=|=------------- ou pelo meu insta: 📷 @erikfritas -------------=|=-
   </p>
   <br>
   <p align="center">
