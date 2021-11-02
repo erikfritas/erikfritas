@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <br>
   <article>
     <ul>
-      <li align="left">Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego.</li>
-      <li align="right">🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</li>
+      <li>Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego.</li>
+      <li>🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</li>
     </ul>
   </article>
   <br>
