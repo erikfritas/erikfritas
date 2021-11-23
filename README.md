@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <header>
-  <h1>FALA DEVs 🍟✨ ["fritas" == "fries"]</h1>
+  <h1>🍟✨ ["fritas" == "fries"]</h1>
   
   <br>
   <article>
