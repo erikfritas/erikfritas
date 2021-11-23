@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<section style="display: inline-block; align: center;">
+<p style="display: inline-block;">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   </kbd>
-</section>
+</p>
 <hr>
 
 <footer align="center">
