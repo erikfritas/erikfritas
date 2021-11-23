@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>🍟✨</h1>
+<h1>Laravel Developer 🍟✨</h1>
 
 <p align="center">
   <article>
