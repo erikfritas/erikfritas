@@ -88,8 +88,8 @@ Here are some ideas to get you started:
     -=|. <strong>Se quiser me chamar pra gente fazer um projeto...</strong> .|=-<br>
     -=|=- 📫 Me chame por aqui: erikfritasgithub@gmail.com -=|=-<br>
     -=|=------------- ou pelo meu insta: 📷 @erikfritas -------------=|=-
+  <a href="https://instagram.com/erikfritas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </p>
-  <a href="https://instagram.com/erikfritas" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <br>
   <p align="center">
     Número de visitas: <br> <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
