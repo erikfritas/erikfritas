@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<section>
+<section style="display: inline-block;">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
