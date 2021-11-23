@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p style="display: inline-block;">
+<p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
