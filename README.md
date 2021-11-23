@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<header>
-  <h1>🍟✨</h1>
-  
-  <br>
+<h1>🍟✨</h1>
+
+<p align="center">
   <article>
     <ul>
       <li>Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego.</li>
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
     </a>
   </p>
   
-</header>
+</p>
 
 <br>
 
