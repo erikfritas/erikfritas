@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 <h1>Laravel Developer 🍟✨</h1>
 
 <p align="center">
-  <p align="left">
+  <p align="left" width="100vw">
     <ul>
       <li>Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego.</li>
       <li>🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</li>
     </ul>
   </p>
   <p align="right">
-    ![Alt Text](https://github.com/erikfritas/erikfritas/blob/main/mygif.gif)
+    <img src="./mygif.gif" width="150px" height="80px">
   </p>
   
   <br>
