@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="./mygif.gif" width="350vw" height="200vw"/>
 <p align="left">Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego. <br> <br>
-🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</p>
+🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel. <br> <br>
+🐧 Usuário de Linux
+</p>
 
 <br><br><br><br>
 
