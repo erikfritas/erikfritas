@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 <h1>Laravel Developer 🍟✨</h1>
 
 <p align="center">
-  <p align="left">
-    <ul align="left">
-      <li align="left">Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego.</li>
-      <li align="left">🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</li>
-      <img align="right" src="./mygif.gif" width="150vw" height="80vw">
+    <ul>
+      <li>Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego.</li>
+      <li>🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</li>
     </ul>
-  </p>
-  
-  <br>
-  
+</p>
+
+<img align="right" src="./mygif.gif" width="150vw" height="80vw">
+
+
+<p align="center">
   <p align="center">
     <a href="https://lumaypublicidade.com/#contato">
       <img height="175vw" alt="" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
