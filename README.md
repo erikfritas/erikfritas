@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </ul>
   </p>
   <p align="right">
-    ![Alt Text](./mygif.gif)
+    ![Alt Text](https://github.com/erikfritas/erikfritas/blob/main/mygif.gif)
   </p>
   
   <br>
