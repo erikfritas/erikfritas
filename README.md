@@ -21,9 +21,7 @@ Here are some ideas to get you started:
       <li>🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</li>
     </ul>
 </p>
-
 <img align="right" src="./mygif.gif" width="150vw" height="80vw">
-
 
 <p align="center">
   <p align="center">
