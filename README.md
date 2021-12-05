@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <p align="center">
   <p align="left">
     <ul align="left">
-      <li>Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego.</li>
-      <li>🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</li>
+      <li align="left">Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego.</li>
+      <li align="left">🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel.</li>
+      <img align="right" src="./mygif.gif" width="150vw" height="80vw">
     </ul>
-    <img align="right" src="./mygif.gif" width="150vw" height="80vw">
   </p>
   
   <br>
