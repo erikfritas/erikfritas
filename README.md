@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </ul>
   </p>
   <p align="right">
-    <img src="./mygif.gif" width="150px" height="80px">
+    <img src="./mygif.gif" width="150vw" height="80vw">
   </p>
   
   <br>
