@@ -94,12 +94,13 @@ Here are some ideas to get you started:
     Número de visitas: <br> <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
   </p>
   <br>
-  <p align="left">
-     <strong>
-           <i>“I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language.”</i>
-    <br><br>
-    — Yukihiro Matsumoto
-     </strong>
+  <p align="center">
+    Quer inspiração?
+    
+    ```
+    php artisan inspire
+    ```
+    
   </p>
 </footer>
 
