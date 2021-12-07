@@ -95,8 +95,8 @@ Here are some ideas to get you started:
   </p>
   <br>
   <p align="center">
-    Quer inspiração com Laravel? <br>
-    php artisan inspire <br>
+    Quer inspiração com Laravel?<br>
+    <strong>php artisan inspire</strong><br>
     (e sim isso realmente funciona<br>sem ter que baixar nenhum pacote extra)
   </p>
 </footer>
