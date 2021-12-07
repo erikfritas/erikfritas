@@ -96,8 +96,8 @@ Here are some ideas to get you started:
   <br>
   <p align="center">
     Quer inspiração com Laravel? <br>
-    input isso no terminal: php artisan inspire <br>
-    e receberá um output aleatório como esse: "It is not the man who has too little, but the man who craves more, that is poor. - Seneca"
+    php artisan inspire <br>
+    (e sim isso realmente funciona<br>sem ter que baixar nenhum pacote extra)
   </p>
 </footer>
 
