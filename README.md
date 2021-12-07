@@ -96,11 +96,9 @@ Here are some ideas to get you started:
   <br>
   <p align="center">
     Quer inspiração?
-    
     ```
     php artisan inspire
     ```
-    
   </p>
 </footer>
 
