@@ -96,7 +96,9 @@ Here are some ideas to get you started:
   <br>
   <p align="center">
     Quer inspiração com Laravel?<br>
-    run: <strong>php artisan inspire</strong>
+    run: <strong>php artisan inspire</strong>,<br>
+    no seu terminal e ele irá<br>
+    imprimir uma frase de<br>inspiração aleatória
   </p>
 </footer>
 
