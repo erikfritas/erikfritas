@@ -61,6 +61,12 @@ Here are some ideas to get you started:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
   </kbd>
   <kbd>
+    <kbd>Mobile</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/nolan/64/react-native.png" />
+  </kbd>
+  <kbd>
     <kbd>Others</kbd>
     <br>
     <br>
