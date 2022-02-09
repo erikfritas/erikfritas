@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p style="display: block;" align="center">
+<p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <img width="30px" src="./laravel-2.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-  </kbd>
+  </kbd><br/>
   <kbd>
     <kbd>Mobile</kbd>
     <br>
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     <img width="30px" src="./bash.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  </kbd>
+  </kbd><br/>
   <kbd>
     <kbd>Tools</kbd>
     <br>
