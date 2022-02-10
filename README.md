@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🐧 Usuário de Linux
 </p>
 
-<br><br><br><br>
+<br><br><br>
 
 <p align="center">
   <p align="center">
