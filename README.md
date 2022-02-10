@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Laravel Developer 🍟✨</h1>
+<h1>Web Developer 🍟✨</h1>
 
 <img align="left" src="./mygif.gif" width="350vw" height="200vw"/>
 <p align="left">Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego. <br> <br>
-🔭 Atualmente estou estudando <strong>backend 🌱</strong> com Laravel. <br> <br>
+🔭 Nas horas vagas utilizo <strong>RUST</strong> por diversão. <br> <br>
 🐧 Usuário de Linux
 </p>
 
@@ -103,11 +103,5 @@ Here are some ideas to get you started:
     Número de visitas: <br> <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
   </p>
   <br>
-  <p align="center">
-    Quer inspiração com Laravel?<br>
-    run: <strong>php artisan inspire</strong>,<br>
-    no seu terminal e ele irá<br>
-    imprimir uma frase de<br>inspiração aleatória
-  </p>
 </footer>
 
