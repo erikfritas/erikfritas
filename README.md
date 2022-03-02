@@ -109,6 +109,8 @@ Here are some ideas to get you started:
     -=|=- 📫 Me chame por aqui: erikfritasgithub@gmail.com -=|=-<br>
     -=|=------------- ou pelo meu insta: 📷 @erikfritas -------------=|=-<br><br>
   <a href="https://instagram.com/erikfritas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCsfmGXWsYZsXx1su9EK1XWg" target="_blank"><img src="https://img.shields.io/badge/Zer0K 1line?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    ?style=for-the-badge&logo=appveyor
   </p>
   <br>
   <p align="center">
