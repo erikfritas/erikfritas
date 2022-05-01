@@ -105,10 +105,11 @@ Here are some ideas to get you started:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
   </kbd>
   <kbd>
-    <kbd>OS</kbd>
+    <kbd>OS and Distros</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+    <img width="30px" src="./manjaro.svg" />
   </kbd>
 </p>
 <hr>
