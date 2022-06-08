@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1>Web Developer 🍟✨</h1>
 
 <img align="left" src="./mygif.gif" width="350vw" height="200vw"/>
-<p align="right">Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego. <br> <br>
+<p align="center">Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 17 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong> na empresa <a href="https://lumaypublicidade.com/">LUMAY Publicidade</a>, ainda assim estou em busca de emprego. <br> <br>
 💕 Amante de REACT NATIVE <br> <br>
 🐧 Usuário de Linux
 </p>
