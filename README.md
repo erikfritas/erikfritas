@@ -13,26 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Web Developer 🍟✨</h1>
+<h1>Develoment and Jokes 🥸</h1>
 
-<img align="left" src="./mygif.gif" width="350vw" height="200vw"/>
-<p align="center">Meu nome é <i>Érik 🍟</i>, sou Brasileiro 🇧🇷, tenho 18 anos de idade, possuo experiência com desenvolvimento <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>Freelancer Fullstack</strong>. <br> <br>
-💕 Amante de REACT NATIVE <br> <br>
-🐧 Usuário de Linux
+<!-- <img align="left" src="./mygif.gif" width="350vw" height="200vw"/> -->
+<p align="center">Me chamo <i>Erik</i>, tenho 21 anos de idade, possuo experiência com desenvolvimento <strong>Web e Mobile 🔭</strong>. <br> <br>
+🥷 VICIADO EM REACT NATIVE <br> <br>
 </p>
 
 <br><br><br>
 
-<p align="center">
+<!-- <p align="center">
   <p align="center">
     <a href="https://lumaypublicidade.com/#contato">
       <img height="175vw" alt="" src="https://github-readme-stats.vercel.app/api?username=erikfritas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
       <img height="175vw" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfritas&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF" />
     </a>
   </p>
-  
 </p>
-
+-->
 <br>
 
 <p style="display: inline-block;" align="center">
