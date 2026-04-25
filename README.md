@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Codes and Jokes 🥸</h1>
+<h2>British + Brazilian + Italian 🇬🇧🇧🇷🇮🇹</h2>
 
 <!-- <img align="left" src="./mygif.gif" width="350vw" height="200vw"/> -->
 <p align="center">Me chamo <i>Erik</i>, tenho 21 anos de idade, possuo experiência com desenvolvimento <strong>Web e Mobile 🔭</strong>. <br> <br>
