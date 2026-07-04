@@ -149,7 +149,7 @@ My work combines **clean engineering**, **product strategy**, **cinematic interf
 
 <div align="center">
   <a href="https://erikfritas.com">
-    <img src="https://img.shields.io/badge/INITIALIZE_PORTFOLIO-erikfritas.com-00F5FF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Open portfolio"/>
+    <img src="https://img.shields.io/badge/INITIALIZE_PORTFOLIO-erikfritas.com-1e9686?style=for-the-badge&logo=vercel&logoColor=000000" alt="Open portfolio"/>
   </a>
 </div>
 
@@ -213,7 +213,7 @@ I am interested in projects involving:
 ### Have an ambitious idea?
 
 <a href="mailto:erikfritasgithub@gmail.com">
-  <img src="https://img.shields.io/badge/START_A_CONVERSATION-00F5FF?style=for-the-badge&logo=minutemailer&logoColor=000000" alt="Start a conversation"/>
+  <img src="https://img.shields.io/badge/START_A_CONVERSATION-1e9686?style=for-the-badge&logo=minutemailer&logoColor=000000" alt="Start a conversation"/>
 </a>
 <a href="https://erikfritas.com">
   <img src="https://img.shields.io/badge/VIEW_MY_WORK-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="View my work"/>
