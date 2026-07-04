@@ -31,7 +31,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=erikfritas&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge&abbreviated=true" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=erikfritas&label=PROFILE+VIEWS&color=1e9686&style=for-the-badge&abbreviated=true" alt="Profile views"/>
 
 </div>
 
