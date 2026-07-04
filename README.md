@@ -170,10 +170,6 @@ My work combines **clean engineering**, **product strategy**, **cinematic interf
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=erikfritas&bg_color=00000000&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&area_color=00F5FF&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph"/>
 
-<br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=erikfritas&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies"/>
-
 </div>
 
 > GitHub language cards reflect repository code distribution, not a complete measurement of professional expertise.
