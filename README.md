@@ -17,7 +17,7 @@
 <br/>
 
 <a href="https://erikfritas.com" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ERIKFRITAS.COM-00F5FF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-ERIKFRITAS.COM-3A0B68?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/>
 </a>
 <a href="https://www.instagram.com/erikfritas/" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-@ERIKFRITAS-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
