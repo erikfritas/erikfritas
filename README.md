@@ -22,14 +22,13 @@
 <a href="https://www.instagram.com/erikfritas/" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-@ERIKFRITAS-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+<br/>
 <a href="mailto:erikfritasgithub@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-111827?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email"/>
 </a>
 <a href="https://github.com/erikfritas?tab=followers">
   <img src="https://img.shields.io/github/followers/erikfritas?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827&labelColor=111827" alt="GitHub followers"/>
 </a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=erikfritas&label=PROFILE+VIEWS&color=1e9686&style=for-the-badge&abbreviated=true" alt="Profile views"/>
 
